@@ -162,7 +162,7 @@ python app.py
 |---|---|---|
 | Selvy Amanda Saputri | F1E125069 | Ketua; analisis kebutuhan, desain class, prinsip SOLID |
 | M. Akmal Faizhin Hafiz | F1E125073 | Class diagram dan struktur file Python |
-| Salma Mahira | — | Use case, flowchart, skenario, rencana milestone |
+| Salma Mahira | F1E125029 | Use case, flowchart, skenario, rencana milestone |
 | Rionza | F1E125015 | Dokumentasi, naskah, referensi, penggabungan dokumen |
 
 **Dosen Pengampu:** Edi Saputra, S.T., M.Sc. · Pariyadi, S.Kom., M.Kom. · Hamzah Alghifari, M.Kom. · Muhammad Damas Fatih, S.Kom., M.Kom.
